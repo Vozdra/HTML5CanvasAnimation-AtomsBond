@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.h1 {
+  position: absolute;
+  color: beige;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%,-5%)
+}
+#canvas {
+  display: block;
+  background-color: #000;
+}
